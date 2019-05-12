@@ -3,6 +3,9 @@
 That is an excercise project for Mr. K :)
 ATM machine that provides you with the lowest number of notes
 
+It was bootstraped with create-react-app
+https://github.com/facebook/create-react-app
+
 ## Setup
 
 - clone the repo

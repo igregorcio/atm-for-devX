@@ -1,0 +1,36 @@
+.WithdrawResults-wrapper {
+  margin: 20px 0;
+  width: 300px;
+  padding: 0 5px;
+}
+
+.WithdrawResults-detail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.WithdrawResults-note {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 30px;
+  padding: 3px;
+  border: 3px solid #111;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.WithdrawResults-currency {
+  max-width: 40px;
+  margin-right: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.WithdrawResults-quantity {
+  margin-left: 15px;
+}
